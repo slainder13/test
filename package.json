@@ -1,0 +1,32 @@
+{
+  "name": "chill-club",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.9.0",
+    "avconv": "^3.1.0",
+    "canvas": "^2.11.2",
+    "discord-canvas-easy": "^3.2.1",
+    "discord-player": "^6.6.0",
+    "discord.js": "^14.11.0",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^5.1.0",
+    "mysql": "^2.18.1",
+    "ytdl-core": "^4.11.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdevfr/croxbot.git"
+  },
+  "author": "slainder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdevfr/croxbot/issues"
+  },
+  "homepage": "https://github.com/sdevfr/croxbot#readme"
+}
